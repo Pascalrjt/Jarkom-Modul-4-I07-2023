@@ -114,3 +114,29 @@
 |    A21    |    10.62.16.12    |    255.255.255.0/24    |   10.62.16.255   |      127      |
 
 ## CIDR Tree
+
+![CIDR-Tree](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/a9a071a3-56fa-42ef-9700-4e8dcaba1eca)
+
+## CIDR Grouping
+
+![A](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/99ece906-bbf0-40f4-a158-0e15fb042e02)
+
+![B](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/638e0222-2791-4717-84e8-91e4bdf634a7)
+
+![C](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/0450e427-794e-4ea9-b492-f72e3f3eb74f)
+
+![D](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/d8392d8a-89b9-4aeb-adbf-0ea81fc81296)
+
+![E](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/e50e0efe-dfa3-47e7-bee7-04b696fdd5cb)
+
+![F](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/d1d07d01-cb58-4272-a38d-272fb8acb299)
+
+![G](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/6d7056e8-7fb6-4067-9c93-5ece04299360)
+
+![H](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/20586d04-a505-4d3f-b99c-14f5bc25e3a8)
+
+![I](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/5d78e327-ba58-4491-937e-5db071458ef4)
+
+![J](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/bbcbf82f-9669-4d5e-addd-3af79ea6f3d7)
+
+![K](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/e8d9a0ea-57aa-4fe1-8920-4c211a35c8b4)
