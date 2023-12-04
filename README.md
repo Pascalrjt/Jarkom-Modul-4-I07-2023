@@ -119,6 +119,8 @@
 
 ## CIDR Grouping
 
+*the topo has been re-arrange just to make it easier to group*
+
 ![A](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/99ece906-bbf0-40f4-a158-0e15fb042e02)
 
 ![B](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/638e0222-2791-4717-84e8-91e4bdf634a7)
