@@ -142,3 +142,381 @@
 ![J](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/bbcbf82f-9669-4d5e-addd-3af79ea6f3d7)
 
 ![K](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/e8d9a0ea-57aa-4fe1-8920-4c211a35c8b4)
+
+## CIDR Routing GNS
+
+### Router
+
+Aura
+
+```
+auto eth0
+iface eth0 inet dhcp
+
+auto eth1
+iface eth1 inet static
+      address 10.62.32.1
+      netmask 255.255.255.252
+
+auto eth2
+iface eth2 inet static
+      address 10.62.16.65
+      netmask 255.255.255.252
+
+auto eth3
+iface eth3 inet static
+      address 10.64.8.17
+      netmask 255.255.255.252
+```
+
+Frieren
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.16.66
+      netmask 255.255.255.252
+      gateway 10.62.16.65
+
+auto eth1
+iface eth1 inet static
+      address 10.62.16.5
+      netmask 255.255.255.224
+
+auto eth2
+iface eth2 inet static
+      address 10.62.16.1
+      netmask 255.255.255.252
+```
+
+Denken
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.32.2
+      netmask 255.255.255.252
+      gateway 10.62.32.1
+
+auto eth1
+iface eth1 inet static
+      address 10.62.16.129
+      netmask 255.255.255.0
+```
+
+Flamme
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.16.2
+      netmask 255.255.255.252
+      gateway 10.62.16.1
+
+auto eth1
+iface eth1 inet static
+      address 10.62.8.1
+      netmask 255.255.255.252
+
+auto eth2
+iface eth2 inet static
+      address 10.62.8.17
+      netmask 255.255.252.0
+
+auto eth3
+iface eth3 inet static
+      address 10.62.8.9
+      netmask 255.255.255.252
+```
+
+Fern
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.8.2
+      netmask 255.255.255.252
+      gateway 10.62.8.1
+
+auto eth1
+iface eth1 inet static
+      address 10.62.0.1
+      netmask 255.255.248.0
+```
+
+Himmel
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.8.10
+      netmask 255.255.255.252
+      gateway 10.62.8.9
+
+auto eth1
+iface eth1 inet static
+      address 10.62.8.4
+      netmask 255.255.255.248
+```
+
+Eisen
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.64.8.18
+      netmask 255.255.255.252
+      gateway 10.64.8.17
+
+auto eth1
+iface eth1 inet static
+      address 10.64.8.5
+      netmask 255.255.255.248
+
+auto eth2
+iface eth2 inet static
+      address 10.64.8.9
+      netmask 255.255.255.252
+
+auto eth3
+iface eth3 inet static
+      address 10.64.8.1
+      netmask 255.255.255.252
+
+auto eth4
+iface eth4 inet static
+      address 10.64.0.1
+      netmask 255.255.255.252
+```
+
+Lugner
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.64.8.2
+      netmask 255.255.255.252
+      gateway 10.64.8.1
+
+auto eth1
+iface eth1 inet static
+      address 10.64.0.5
+      netmask 255.255.252.0
+
+auto eth2
+iface eth2 inet static
+      address 10.64.4.1
+      netmask 255.255.255.0
+```
+
+Linie
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.64.0.2
+      netmask 255.255.255.252
+      gateway 10.64.0.1
+
+auto eth1
+iface eth1 inet static
+      address 10.62.128.65
+      netmask 255.255.254.0
+
+auto eth2
+iface eth2 inet static
+      address 10.62.128.33
+      netmask 255.255.255.252
+```
+
+Lawine
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.128.34
+      netmask 255.255.255.252
+      gateway 10.62.128.33
+
+auto eth1
+iface eth1 inet static
+      address 10.62.128.1
+      netmask 255.255.255.224
+```
+
+Heiter
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.128.2
+      netmask 255.255.255.224
+      address 10.62.128.1
+
+auto eth1
+iface eth1 inet static
+      address 10.62.64.1
+      netmask 255.255.252.0
+```
+
+### Client & Server
+
+Royalcapital
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.16.14
+      netmask 255.255.255.0
+      gateway 10.62.16.13
+```
+
+Willeregion
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.16.77
+      netmask 255.255.255.0
+      gateway 10.62.16.13
+```
+
+Lakekoridor
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.16.6
+      netmask 255.255.255.224
+      gateway 10.62.16.5
+```
+
+Appetitregion
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.0.2
+      netmask 255.255.248.0
+      gateway 10.62.0.1
+```
+
+Laubhills
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.0.627
+      netmask 255.255.248.0
+      gateway 10.62.0.1
+```
+
+Rohrroad
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.8.18
+      netmask 255.255.252.0
+      gateway 10.62.8.17
+```
+
+Schwermountains
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.8.10
+      netmask 255.255.255.252
+      gateway 10.62.8.9
+```
+
+Richter
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.8.6
+      netmask 255.255.255.248
+      gateway 10.62.8.5
+```
+
+Revolts
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.8.7
+      netmask 255.255.255.248
+      gateway 10.62.8.5
+```
+
+Stark
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.8.10
+      netmask 255.255.255.252
+      gateway 10.62.8.9
+```
+
+Turkregion
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.64.0.6
+      netmask 255.255.252.0
+      gateway 10.64.0.5
+```
+
+Grobeforest
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.64.4.2
+      netmask 255.255.255.0
+      gateway 10.64.4.1
+```
+
+Granzchannel
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.128.66
+      netmask 255.255.254.0
+      gateway 10.62.128.65
+```
+
+Bredregion
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.128.2
+      netmask 255.255.255.224
+      gateway 10.62.128.1
+```
+
+Sein
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.64.2
+      netmask 255.255.252.0
+      gateway 10.62.64.1
+```
+
+Riegelcanyon
+
+```
+auto eth0
+iface eth0 inet static
+      address 10.62.64.3
+      netmask 255.255.252.0
+      gateway 10.62.64.1
+```
