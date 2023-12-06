@@ -86,6 +86,8 @@
 |   |   |   |   |-- A19: 10.62.17.16/30 (Network Host: 2)
 ```
 
+[Jarkom-Modul-4-I07-2023-Revisi-CPT-VLSM](https://youtu.be/VGqcqe8FWxQ)
+
 ## Routing CIDR
 ![CIDRRouting](https://cdn.discordapp.com/attachments/824131614073683968/1181949551121281195/IMG_0750.png?ex=6582eb4c&is=6570764c&hm=871115c66226d3de4ca330efa58f958b20577bae4eb459b28ba47c6998b90adf&)
 
