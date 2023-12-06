@@ -120,7 +120,7 @@
 
 ## CIDR Tree
 
-![CIDR-Tree](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/a9a071a3-56fa-42ef-9700-4e8dcaba1eca)
+![CIDM-TREE-IO7-4 (1)](https://github.com/Pascalrjt/Jarkom-Modul-4-I07-2023/assets/89951546/9840dd86-0db2-4256-85a8-fd3df64886a0)
 
 ## CIDR Grouping
 
