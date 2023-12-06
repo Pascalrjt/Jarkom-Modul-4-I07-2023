@@ -19,6 +19,7 @@
 ![CPTTapology](https://cdn.discordapp.com/attachments/824131614073683968/1180408128387424286/image.png?ex=657d4fbc&is=656adabc&hm=312449ced231e3fd1664405f592e7df9c7acf11185811ea72970cd0ed67a1487&)
 
 ## Routing VLSM
+![VLSMRouting](https://cdn.discordapp.com/attachments/824131614073683968/1181949016687267901/IMG_0749.png?ex=6582eacd&is=657075cd&hm=2771d1c25aae9b3d64746c78fba9e08c16afe48dbe8070598566b53cdd05a39f&)
 
 ## IP VLSM
 
@@ -86,6 +87,7 @@
 ```
 
 ## Routing CIDR
+![CIDRRouting](https://cdn.discordapp.com/attachments/824131614073683968/1181949551121281195/IMG_0750.png?ex=6582eb4c&is=6570764c&hm=871115c66226d3de4ca330efa58f958b20577bae4eb459b28ba47c6998b90adf&)
 
 ## IP CIDR
 
